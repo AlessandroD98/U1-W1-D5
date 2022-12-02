@@ -24,7 +24,10 @@ h1 {
     text-align: center;
     padding-top: 50px;
 }
-.top { 
+.top {
+    background-image: url(/images/banner.jpg);
+    background-size: cover;
+    background-position-x: center; 
     height: 400px;
 }
 p {
